@@ -1,0 +1,28 @@
+_repo: Some-Verses_42330
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42330-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whitney, Helen Hay
+    alias: Hay, Helen
+    birthdate: 1875
+    deathdate: 1944
+    gutenberg_agent_id: '8398'
+    url: http://www.gutenberg.org/2009/agents/8398
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Hay_Whitney
+description: ''
+gutenberg_issued: '2013-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+title: Some Verses
+url: http://www.gutenberg.org/ebooks/42330
